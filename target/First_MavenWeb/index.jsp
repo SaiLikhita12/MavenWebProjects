@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>First Maven Web Project by Likhita!!!</h2>
+<h2>First Maven Web Project by Manvika!!!</h2>
 </body>
 </html>
